@@ -1,0 +1,21 @@
+{
+	"runtime-localizer": [{
+		"English": [{
+			"hello": "Hello"
+		}, {
+			"btn_text": "Button"
+		}]
+	}, {
+		"Korean": [{
+			"hello": "여보세요"
+		}, {
+			"btn_text": "단추"
+		}]
+	}, {
+		"German": [{
+			"hello": "Hallo"
+		}, {
+			"btn_text": "Taste"
+		}]
+	}]
+}
