@@ -2,23 +2,29 @@
 	"runtime-localizer": [{
 		"name": "English",
 		"localization": [{
-			"hello": "Hello"
+			"id": "hello",
+			"text": "Hello"
 		}, {
-			"btn_text": "Button"
+			"id": "btn_text",
+			"text": "Button"
 		}]
 	}, {
 		"name": "Korean",
 		"localization": [{
-			"hello": "여보세요"
+			"id": "hello",
+			"text": "여보세요"
 		}, {
-			"btn_text": "단추"
+			"id": "btn_text",
+			"text": "단추"
 		}]
 	}, {
 		"name": "German",
 		"localization": [{
-			"hello": "Hallo"
+			"id": "hello",
+			"text": "Hallo"
 		}, {
-			"btn_text": "Taste"
+			"id": "btn_text",
+			"text": "Taste"
 		}]
 	}]
 }
